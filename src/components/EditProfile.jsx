@@ -50,7 +50,7 @@ const EditProfile = ({ user }) => {
                   className="input input-bordered w-full max-w-xs"
                 />
               </label>
-              <label className="form-control w-full max-w-xs my-2">
+              <label className="form-control w-full max-w-xs ">
                 <div className="label">
                   <span className="label-text">lastName</span>
                 </div>
@@ -61,7 +61,7 @@ const EditProfile = ({ user }) => {
                   className="input input-bordered w-full max-w-xs"
                 />
               </label>
-              <label className="form-control w-full max-w-xs my-2">
+              <label className="form-control w-full max-w-xs">
                 <div className="label">
                   <span className="label-text">photoUrl</span>
                 </div>
@@ -72,7 +72,7 @@ const EditProfile = ({ user }) => {
                   className="input input-bordered w-full max-w-xs"
                 />
               </label>
-              <label className="form-control w-full max-w-xs my-2">
+              <label className="form-control w-full max-w-xs">
                 <div className="label">
                   <span className="label-text">Age</span>
                 </div>
@@ -83,7 +83,7 @@ const EditProfile = ({ user }) => {
                   className="input input-bordered w-full max-w-xs"
                 />
               </label>
-              <label className="form-control w-full max-w-xs my-2">
+              <label className="form-control w-full max-w-xs">
                 <div className="label">
                   <span className="label-text">Gender</span>
                 </div>
@@ -98,7 +98,7 @@ const EditProfile = ({ user }) => {
                   <option value="others">others</option>
                 </select>
               </label>
-              <label className="form-control w-full max-w-xs my-2">
+              <label className="form-control w-full max-w-xs">
                 <div className="label">
                   <span className="label-text">About</span>
                 </div>
