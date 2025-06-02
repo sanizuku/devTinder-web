@@ -28,7 +28,6 @@ const EditProfile = ({ user }) => {
         setShowToast(false);
       }, 3000);
     } catch (err) {
-      console.log(err.response?.data);
       setError(err.response?.data);
     }
   };
